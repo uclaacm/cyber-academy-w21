@@ -1,0 +1,18 @@
+id = 7
+title = "Tool Talks"
+short = "Tool Talks" 
+date = "TBD"
+description = """Cyber proudly presents our Tool Talks mini-series! Take a detour in your webhacking journey to visit our short series on how to use various webhacking tools! We'll be presenting Burp Suite, OWASP Juice Shop, and Hydra.
+
+## Burp Suite
+Web vulnerabilities can be tricky to find, but with the use of this awesome tool, your life will be much easier. Come check out the overview and walkthrough of Burp Suite to learn all about how to use it to solve web exploitation CTF challenges and to use in general for web development! The talk will not be recorded, but a written walkthrough will be provided afterwards. Don’t miss out! 
+
+## OWASP Juice Shop
+*Saftladen* (German): useless, junk. Direct translation: *Saft* -> Juice, *Laden* -> Shop. If you were looking for something useless to do, or a juice shop to hack, you’re in the right place! Join Alyssa on Discord as she pokes around the “probably most modern and sophisticated insecure web application” created by open source foundation, Open Web Application Security Project (OWASP)! 
+
+## Hydra
+Like the mythological creature it’s named for, Hydra has an ever growing number of “heads” that are geared towards gaining remote access to a system. If you’ve ever needed to guess a large number of passwords for SSH, an HTTPS form, FTP, SQL, or a number of other protocols (legally, of course), then come learn about how you can use Hydra to make your brute-force dreams come true.
+
+"""
+link = ""
+slides = ""

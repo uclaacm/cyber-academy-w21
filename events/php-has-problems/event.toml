@@ -2,7 +2,7 @@ id = 4
 title = "Cyber Academy: PHP Has Problems"
 short = "PHP Has Problems" 
 date = "Thursday 2/4 7:00PM-9:00PM PT"
-description = """No blurbs have been written yet.
+description = """Inconsistent naming conventions. Insecure/buggy functions with silent failures. An amalgamation between C++, Javascript and Perl. All of this is true of one true terror of a programming language. Join us as we uncover the monster that is PHP… and how we can use it to our advantage!
 """
 link = ""
 slides = ""

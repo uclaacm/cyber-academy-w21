@@ -6,4 +6,4 @@ description = """Who accidentally DDoSed a server after writing a bad web crawle
 tags = []
 files = []
 flag = "flag{martijn_koster}"
-enabled = false
+enabled = true

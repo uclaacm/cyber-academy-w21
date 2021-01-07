@@ -1,0 +1,9 @@
+slug = "trivia-1"
+title = "Trivia 1"
+author = "Kimberly"
+value = 10
+description = """Who accidentally DDoSed a server after writing a bad web crawler, inspiring the creation of robots.txt? (Spaces are separated with underscores, all lowercase. Make sure to wrap the answer in flag{...})"""
+tags = []
+files = []
+flag = "flag{martijn_koster}"
+enabled = true

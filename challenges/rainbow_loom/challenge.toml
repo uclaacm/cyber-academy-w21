@@ -1,0 +1,9 @@
+slug = "rainbow-loom"
+title = "Rainbow Loom"
+author = "Kimberly"
+value = 15
+description = """The koolest kids have at least 13 [rainbow loom] (https://main.d2l1r1pl615xsh.amplifyapp.com/challenges/rainbow-loom) bracelets on each wrist. Be sure to enclose the flag using the format flag{}"""
+tags = ["intro"]
+files = []
+flag = "flag{ages_0_to_99}"
+enabled = true

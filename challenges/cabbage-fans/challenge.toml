@@ -1,0 +1,9 @@
+slug = "cabbage-fans"
+title = "Cabbage Fans"
+author = "Josh"
+value = 20
+description = """so… i heard you like cabbages… click this link and U R aLl set for some manipulative fun."""
+tags = ["intro"]
+files = []
+flag = "flag{g0rd0n_l0v3s_c4bb4g3s}"
+enabled = true

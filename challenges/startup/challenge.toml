@@ -1,0 +1,9 @@
+slug = "startup"
+title = "Startup"
+author = "Kimberly"
+value = 20
+description = """You and your two closest friends just started a self-driving car startup. A ransomware attack locked you out of [your website](https://jlekrcglqh.execute-api.us-east-1.amazonaws.com/stage1) and is asking you to pay $100 million dollars. How dare they!?! The attackers clearly didn't know you attended ACM Cyber workshops in college. Flag format is flag{}"""
+tags = ["intro"]
+files = []
+flag = "flag{ummm_not_team_goodboy}"
+enabled = true

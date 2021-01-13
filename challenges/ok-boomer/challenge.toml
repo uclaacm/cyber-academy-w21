@@ -1,0 +1,9 @@
+slug = "ok-boomer"
+title = "oK bOoMeR"
+author = "Josh"
+value = 15
+description = """My dad went to his favorite site [here](https://main.d2l1r1pl615xsh.amplifyapp.com/challenges/ok-boomer) on my laptop, but he said it’s different than usual. He said he usually *explores* the *internet* on his tablet or phone, and it’ll take around *7* seconds for it to fully load. Someone please help."""
+tags = ["intro"]
+files = []
+flag = "flag{lovely_submarine}"
+enabled = true

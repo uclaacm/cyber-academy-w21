@@ -1,0 +1,9 @@
+slug = "phineas-and-ferb"
+title = "Phineas and Ferb"
+author = "Kimberly"
+value = 15
+description = """There's 104 days of summer vacation but only [14 days of winter vacation.](https://main.d2l1r1pl615xsh.amplifyapp.com/challenges/phineas-and-ferb)"""
+tags = ["intro"]
+files = []
+flag = "flag{motherboard_fatherboard}"
+enabled = true

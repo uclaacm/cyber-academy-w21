@@ -1,0 +1,10 @@
+slug = "babys-first-csrf"
+title = "baby's first csrf"
+author = "Disha"
+value = 50
+description = """you, baby, have heard rumours that there is a special edition of your favorite bedtime story deep in the secret vaults of baby bank. the bigbossbaby is hoarding a secret ending that you absolutely must have. 
+your first step? sus out baby bank's [website](https://baby-bank.herokuapp.com) and see what you can do. maybe you can [trick](https://repl.it/) [bigbossbaby](http://acmcyber.com:10000) into giving you the secret ending somehow..."""
+tags = ["csrf"]
+files = []
+flag = "flag{but_not_of_the_edible_variety_if_you_know_what_i_mean_wink_wink_nudge_nudge}"
+enabled = false

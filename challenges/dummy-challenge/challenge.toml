@@ -1,9 +1,0 @@
-slug = "a-light-in-the-dark"
-title = "A Light in the Dark"
-author = "Yunfan"
-value = 20
-description = """Help, I've my way! Can you figure out where I am?"""
-tags = [ "delete" ]
-files = []
-flag = "flag{p1ge0n_po1nt_light_st4tion}"
-enabled = false

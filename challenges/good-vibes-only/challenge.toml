@@ -2,7 +2,9 @@ slug = "good-vibes-only"
 title = "Good Vibes Only!!!"
 author = "Josh"
 value = 30
-description = """Do you know the [vibes](https://main.d2l1r1pl615xsh.amplifyapp.com/challenges/good-vibes)? If not, no worries. I’m sure you can find it somewhere *hidden* inside of you. Sometimes we are just missing a little something..."""
+description = """Do you know the [vibes](https://main.d2l1r1pl615xsh.amplifyapp.com/challenges/good-vibes)? If not, no worries. I’m sure you can find it somewhere *hidden* inside of you. Sometimes we are just missing a little something...
+
+Hint: Send a json along!"""
 tags = ["intro"]
 files = []
 flag = "flag{v1be_t1ll_we_d1e}"

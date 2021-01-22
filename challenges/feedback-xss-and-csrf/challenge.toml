@@ -6,5 +6,4 @@ description = """A feedback form????? No way!!! Maybe it does something cool if 
 tags = ["feedback"]
 files = []
 flag = "flag{in_many_ways_the_work_of_a_critic_is_easy}"
-enabled = false
-
+enabled = true

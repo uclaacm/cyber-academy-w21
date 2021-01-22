@@ -1,14 +1,15 @@
 from bs4 import BeautifulSoup
 from flask import Flask, make_response, render_template, request, redirect, abort
 from os import environ
-from redis import StrictRedis
+from redis_namespace import StrictRedis
 from uuid import uuid4
 
 app = Flask(__name__)
 level = int(environ['XSS_LEVEL'])
 redis = StrictRedis(
 	host=environ.get('REDIS_HOST', 'localhost'),
-	port=environ.get('REDIS_PORT', '6379'))
+	port=environ.get('REDIS_PORT', '6379'),
+	namespace=f'{level}:')
 
 def sanitize(data):
 	if level == 2:

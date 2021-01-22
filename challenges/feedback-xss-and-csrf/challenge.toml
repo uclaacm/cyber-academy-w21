@@ -1,0 +1,9 @@
+slug = "feedback-xss-and-csrf"
+title = "XSS and CSRF Workshop Feedback"
+author = "Aarin"
+value = 5
+description = """A feedback form????? No way!!! Maybe it does something cool if I fill it out idk??? [hmmmmmm](https://forms.gle/Z4tfxzDX1mmVc4QHA)."""
+tags = ["feedback"]
+files = []
+flag = "flag{in_many_ways_the_work_of_a_critic_is_easy}"
+enabled = true

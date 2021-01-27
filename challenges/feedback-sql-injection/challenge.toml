@@ -1,0 +1,9 @@
+slug = "feedback-sql-injection"
+title = "SQL and NoSQL Injection Workshop Feedback"
+author = "Jeffrey"
+value = 5
+description = """Feedback for the workshop [please](https://forms.gle/yFC9g5wUC9uHJj6c9)."""
+tags = ["feedback"]
+files = []
+flag = "flag{little_bobby_tables}"
+enabled = false

@@ -1,0 +1,9 @@
+slug = "sql-trivia-2"
+title = "(No)SQL Trivia 2"
+author = "Peter"
+value = 10
+description = """What format does MongoDB use to store and format documents? Make sure to wrap the answer in flag{...})"""
+tags = ["trivia"]
+files = []
+flag = "flag{BSON}"
+enabled = true

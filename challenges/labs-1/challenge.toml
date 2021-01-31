@@ -1,5 +1,5 @@
-slug = "pathfinder"
-title = "Pathfinder"
+slug = "labs-1"
+title = "Labs 1"
 author = "steph"
 value = 15
 description = """According to our sources, the user Administrator of the CY_Labs site seems to have left some valuable information unguarded in their notes. Can you find it before they delete it? (all lowercase, underscores as spaces) You can access the CY_Labs website [here](<link to CY_Labs site sql injection>)."""

@@ -1,5 +1,5 @@
-slug = "sql-trivia"
-title = "SQL Trivia"
+slug = "sql-trivia-1"
+title = "SQL Trivia 1"
 author = "ted"
 value = 10
 description = """What is the alias of the person who discovered SQL injection? (Spaces are separated with underscores, all lowercase)"""

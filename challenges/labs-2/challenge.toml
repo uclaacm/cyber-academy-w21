@@ -1,0 +1,9 @@
+slug = "labs-2"
+title = "Labs 2"
+author = "steph"
+value = 30
+description = """I heard a rumor that an employee other than the founder spotted a legendary gif! I wonder who it could be? Surely they logged the encounter under their name, so you should be able to find out who it was! Find the name of the employee who saw a legendary gif! Submit it as flag{<firstname_lastname>}. (all lowercase, underscores as spaces)"""
+tags = [ "sql" ]
+files = []
+flag = "flag{anastaysa_vich}"
+enabled = true

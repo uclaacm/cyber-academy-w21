@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+
+  <body>
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+        >&times;</a
+      >
+
+      <form action="/info" class="navbutton" method="get">
+        <button type="submit">Info</button>
+      </form>
+
+      <form action="/blog" class="navbutton" method="get">
+        <button type="submit">Blog</button>
+      </form>
+
+      <form action="/user_home" class="navbutton" method="get">
+        <button type="submit">User</button>
+      </form>
+
+      <form action="/index_check" class="navbutton" method="get">
+        <button type="submit">Login</button>
+      </form>
+
+      <h4>CY_LABS</h4>
+    </div>
+
+    <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+      }
+
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+      }
+    </script>
+
+    <span onclick="openNav()">
+      <div class="vl"></div>
+    </span>
+
+    <div id="main">
+      <header>CY_LABS</header>
+
+      <h6>TODAY'S EMPLOYEE BLOG</h6>
+
+      <div class="row">
+        <div class="leftcolumn">
+          <div class="card">
+            <h2>HERE TO MAKE YOU GIF DREAMS COME TRUE:</h2>
+
+            <table class="table1">
+              <tr>
+                <th></th>
+                <th style="padding-right: 25px">
+                  <h3>How to have infinite gifs in 9 easy steps</h3>
+                </th>
+              </tr>
+              <tr>
+                <td style="object-position: center">
+                  <div class="fakeimg">
+                    <img
+                      src="media/dino_boi.gif"
+                      alt="sorry no flags or gifs here :("
+                    />
+                  </div>
+                </td>
+                <td>
+                  <div class="text_card">
+                    <p>
+                      Step 1: Get an artist <br />
+                      Step 2: Draw something <br />
+                      Step 3: Erase it, you can do better <br />
+                      Step 4: Draw it again but on a tablet <br />
+                      Step 5: Get an animator <br />
+                      Step 6: Animate <br />
+                      Step 7: Add colors <br />
+                      Step 8: Enjoy your new gif! <br />
+                      Step 9: Repeat steps 1 through 8 <br />
+                    </p>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+
+          <div class="card">
+            <h2>MIRANDA REYES AWARDED EMPLOYEE OF THE MONTH</h2>
+
+            <table class="table1">
+              <tr>
+                <td style="width: 50%">
+                  <div class="text_card">
+                    <p>
+                      Miranda Reyes is awarded employee of the month for her
+                      exemplary work performance. She developed an internal
+                      messaging tool to speed up communications at CY_LABS. A
+                      quote from Miranda herself: "If you work hard, you can
+                      achieve great things! Add me on CY_Chat at m_reyes!"
+                    </p>
+                  </div>
+                </td>
+                <td style="width: 50%">
+                  <div class="fakeimg">
+                    <img
+                      src="media/crown.gif"
+                      alt="sorry no flags or gifs here :("
+                    />
+                    <br />
+                    <img
+                      src="media/leafy_boi.gif"
+                      alt="sorry no flags or gifs here :("
+                    />
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+
+          <div class="card">
+            <h2>THIS MONTH'S UPDATE ON "WHERE'S BERT?"</h2>
+
+            <table class="table1">
+              <br />
+              <tr>
+                <td style="width: 50%">
+                  <div class="fakeimg">
+                    <img
+                      src="media/floaty.gif"
+                      alt="sorry no flags or gifs here :("
+                    />
+                    <br />
+                  </div>
+                </td>
+                <td style="width: 50%">
+                  <div class="text_card">
+                    <p>
+                      We are here once again asking the question : <br />
+                      <i> Where is Cye Bert?</i> <br />
+                      As they scour the globe, following rumors of legendary
+                      gifs, we are lucky enough to recieve updates every so
+                      often. <br />
+                      Our last update originates from <br />
+                      <i> ..... drumroll please ......... </i> <br />
+                      Liechtenstein!! <br />
+                      Still no recent sightings according to our founder, but
+                      apparently the landscapes are beautiful in the Alps
+                      <br />
+                      Thank you for reading our monthly update ! <br />
+                      And if you ever hear testimony of a sighting, be sure to
+                      add the time and place into the legendary_report table
+                      under your name!<br /><br />
+                      <i>
+                        P.S. make sure to put your full name in the name field
+                        instead of your username!</i
+                      >
+                    </p>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer">
+        <h2>Thank you for reading today's post :)</h2>
+      </div>
+    </div>
+  </body>
+</html>

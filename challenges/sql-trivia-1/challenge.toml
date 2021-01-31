@@ -1,0 +1,9 @@
+slug = "sql-trivia"
+title = "SQL Trivia"
+author = "ted"
+value = 10
+description = """What is the alias of the person who discovered SQL injection? (Spaces are separated with underscores, all lowercase)"""
+tags = [ "sql" ]
+files = []
+flag = "flag{rain_forrest_puppy}"
+enabled = true

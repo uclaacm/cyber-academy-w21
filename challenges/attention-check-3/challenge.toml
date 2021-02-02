@@ -2,7 +2,7 @@ slug = "attention-check-3"
 title = "Attention Check 3"
 author = "Peter"
 value = 50
-description = """Okay so looks like we need to recover the admin’s password, not just [login](INSERT HERE) using their account. Do you think you could handle that?
+description = """Okay so looks like we need to recover the admin’s password, not just [login](http://attention-check.acmcyber.com:10000/site) using their account. Do you think you could handle that?
 Hint: Maybe you can use regex to recover the password character by character"""
 tags = ["nosql"]
 files = []

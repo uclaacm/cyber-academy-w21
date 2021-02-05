@@ -3,6 +3,8 @@ title = "Cyber Academy: SQL/noSQL Injection"
 short = "SQL and noSQL Injection" 
 date = "Thursday 2/4 7:00PM-9:00PM PT"
 description = """Please DROP by and JOIN us for an event WHERE we will INSERT knowledge of SQL (and noSQL) injections into your personal database (your MIND). Better pay attention… There might not be a SQL! 
+
+Watch the recording [here](https://youtu.be/EMDTbUk_Iy8)!
 """
-link = ""
-slides = ""
+link = "https://fb.me/e/3a20ZflpP"
+slides = "http://links.uclaacm.com/sqlinjection"

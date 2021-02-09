@@ -1,0 +1,9 @@
+slug = "feedback-php-has-problems"
+title = "PHP Has Problems Workshop Feedback"
+author = "Jerry"
+value = 5
+description = """Can I interest you in a [feedback form](https://forms.gle/rWS4N3KeC9DtDp189) today?"""
+tags = ["feedback"]
+files = []
+flag = "flag{halfway_through_the_quarter_and_year}"
+enabled = true

@@ -60,7 +60,7 @@ app.post('/login', (req, res) => {
         function comparePass(err, dbRecord) {
             if (err)
             {
-                throw err;
+                return res.status(422).send(err);
             }
             if (dbRecord != null && dbRecord.username === "admin")
             {

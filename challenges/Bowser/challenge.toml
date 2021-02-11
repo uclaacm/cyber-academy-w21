@@ -4,7 +4,7 @@ author = "Jerry"
 value = 40
 description = """Dear Mario, 
 
-Come save me! I've been taken by Bowser again, but this time, he seems to be more evil than usual. I'm scared that he's going to do something terrible to me. [Help]()! Here are 5 1-Ups for your long journey.
+Come save me! I've been taken by Bowser again, but this time, he seems to be more evil than usual. I'm scared that he's going to do something terrible to me. [Help](http://bowser.acmcyber.com:10000)! Here are 5 1-Ups for your long journey.
 
 Sincerely, Princess Peach"""
 tags = ["php"]

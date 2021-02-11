@@ -1,0 +1,9 @@
+slug = "toomblr"
+title = "toomblr"
+author = "Jerry"
+value = 20
+description = """Is this... the domain of someone named... [pikachu]()? Seems sus to me."""
+tags = ["php"]
+files = []
+flag = "flag{chaotic_3v1l_energy}"
+enabled = true

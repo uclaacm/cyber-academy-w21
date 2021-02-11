@@ -6,4 +6,4 @@ description = """Feedback for the workshop [please](https://forms.gle/yFC9g5wUC9
 tags = ["feedback"]
 files = []
 flag = "flag{little_bobby_tables}"
-enabled = false
+enabled = true

@@ -1,0 +1,9 @@
+slug = "type-juggling-one"
+title = "Type Juggling One"
+author = "Jeffrey"
+value = 20
+description = """A quick and nice intro to [type juggling](http://typejugglingone.acmcyber.com:10000). PHP code [here](index.php)"""
+tags = ["php"]
+files = ["index.php"]
+flag = "flag{start1ng_t0_juggle}"
+enabled = true

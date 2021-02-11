@@ -1,0 +1,9 @@
+slug = "secret-recipe"
+title = "Secret Recipe"
+author = "Luke"
+value = 20
+description = """I need your help to find the secret ingredient to an eccentric chef's signature dish. Can you go to this [site](http://secretrecipe.acmcyber.com:10000/) and recover it for me? All I need is the secret ingredient wrapped inside flag{}."""
+tags = ["php"]
+files = []
+flag = "flag{4_t4blsp00n5_C0Rnm34L}"
+enabled = true

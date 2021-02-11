@@ -4,6 +4,6 @@ author = "Jeffrey"
 value = 20
 description = """Rough quarter, eh? Want to vent your frustrations? Let's do it [together](http://typejugglingtwo.acmcyber.com:10000). PHP code [here](index.php)"""
 tags = ["php"]
-files = [index.php]
+files = ["index.php"]
 flag = "flag{r0ugh_quarter_aint1t}"
 enabled = true

@@ -1,9 +1,0 @@
-slug = "getting-lit"
-title = "Getting LIT"
-author = "Jerry"
-value = 30
-description = """[Here's]() a website I made celebrating my last minute submission for an assignment! My cat would love it if you checked it out :)"""
-tags = ["php"]
-files = []
-flag = "flag{php_with_a_chance_of_flags}"
-enabled = true

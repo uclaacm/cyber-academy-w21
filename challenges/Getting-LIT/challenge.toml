@@ -1,9 +1,9 @@
-slug = "feedback-intro-to-web"
-title = "Intro to Web Workshop Feedback"
-author = "Peter"
-value = 5
-description = """A feedback form for your flag [please](https://forms.gle/DpMohPXKsTp2bwoSA)."""
-tags = ["feedback"]
+slug = "getting-lit"
+title = "Getting LIT"
+author = "Jerry"
+value = 30
+description = """[Here's](http://getting-lit.acmcyber.com:10000) a website I made celebrating my last minute submission for an assignment! My cat would love it if you checked it out :)"""
+tags = ["php"]
 files = []
-flag = "flag{new_year_new_workshops}"
+flag = "flag{php_with_a_chance_of_flags}"
 enabled = true

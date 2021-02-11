@@ -1,9 +1,13 @@
-slug = "feedback-intro-to-web"
-title = "Intro to Web Workshop Feedback"
-author = "Peter"
-value = 5
-description = """A feedback form for your flag [please](https://forms.gle/DpMohPXKsTp2bwoSA)."""
-tags = ["feedback"]
+slug = "bowser"
+title = "Bowser"
+author = "Jerry"
+value = 40
+description = """Dear Mario, 
+
+Come save me! I've been taken by Bowser again, but this time, he seems to be more evil than usual. I'm scared that he's going to do something terrible to me. [Help](http://bowser.acmcyber.com:10000)! Here are 5 1-Ups for your long journey.
+
+Sincerely, Princess Peach"""
+tags = ["php"]
 files = []
-flag = "flag{new_year_new_workshops}"
+flag = "flag{wiggling_wigglers}"
 enabled = true

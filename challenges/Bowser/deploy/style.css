@@ -1,0 +1,17 @@
+body {
+    color:white;
+    background-color: black;
+    overflow-wrap: break-word;
+}
+
+img {
+    height: 500px;
+}
+
+a:link{
+    color:aqua;
+}
+
+a:visited {
+    color:rgba(0, 255, 255, 0.603)
+}

@@ -1,0 +1,9 @@
+slug = "type-juggling-three"
+title = "Type Juggling Three"
+author = "Jeffrey"
+value = 30
+description = """I just made a [nice website](http://typejugglingthree.acmcyber.com:10000) that hashes an input with different hash functions!  PHP code [here](index.php)"""
+tags = ["php"]
+files = ["index.php"]
+flag = "flag{m8gic_h@shes}"
+enabled = true

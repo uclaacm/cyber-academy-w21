@@ -4,5 +4,5 @@ short = "Secure Web Dev"
 date = "Thursday 2/18 7:00PM-9:00PM PT"
 description = """XSS, SQL injection, PHP vulnerabilities and more...now that you know about them, how do we code websites that don’t leave us vulnerable to these attacks? Come to our Secure Web Dev workshop this week, or you may just become Equifax 2.0!
 """
-link = ""
+link = "https://forms.gle/X19GtYU7k8wvzfAs9"
 slides = ""

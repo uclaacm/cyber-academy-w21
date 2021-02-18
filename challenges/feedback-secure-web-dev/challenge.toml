@@ -1,0 +1,9 @@
+slug = "feedback-secure-web-dev"
+title = "Secure Web Dev Workshop Feedback"
+author = "Kimberly"
+value = 5
+description = """A feedback form for your flag [please](https://forms.gle/X19GtYU7k8wvzfAs9)."""
+tags = ["feedback"]
+files = []
+flag = "flag{one_month_left_of_this_quarter}"
+enabled = true
